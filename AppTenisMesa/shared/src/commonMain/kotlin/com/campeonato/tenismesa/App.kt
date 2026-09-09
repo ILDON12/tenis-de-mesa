@@ -1,6 +1,6 @@
 package com.campeonato.tenismesa
 
-import androidx.compose.material.MaterialTheme
+import androidx.compose.material3.MaterialTheme
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.remember
 import com.campeonato.tenismesa.ui.PlacarScreen
